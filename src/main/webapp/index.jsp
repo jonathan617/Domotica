@@ -14,5 +14,6 @@
     <body>
         <h1>Hello World!</h1>
         <p>Hola buenos dias</p>
+        <input type="text" name="nombre" placeholder="Nombre">
     </body>
 </html>
